@@ -1,7 +1,3 @@
-I'm unable to directly access external URLs, including GitHub repositories. However, based on the URL you've shared for your project "Hand Gesture Recognition in VR," I can guide you on how to structure your GitHub README to effectively present your project to potential users or contributors. Feel free to adjust the content according to what specifically your project entails and its current status.
-
----
-
 # Hand Gesture Recognition in VR
 
 ## Introduction
